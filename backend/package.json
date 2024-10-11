@@ -1,0 +1,20 @@
+{
+  "name": "mpc",
+  "version": "1.0.0",
+  "description": "This project is for buliding communication betweens peers in our college",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev": "node server.js"
+  },
+  "author": "mk chand bp",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1",
+    "nodemon": "^3.1.7",
+    "cors": "^2.8.5"
+  }
+}
+

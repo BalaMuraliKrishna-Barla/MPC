@@ -1,0 +1,8 @@
+Light Theme
+    Index page first color : #e4e3fa, rgb(228, 227, 250)
+    Index page second color : White and other combinations
+    Color : Black
+    Buttons: #146ef5
+    Button-Text: White
+
+Dark Theme

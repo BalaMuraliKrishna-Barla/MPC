@@ -1,14 +1,15 @@
-import React from 'react'
-import './App.css';
-import HeroSection from './components/HeroSection';
+import React from 'react';
+import './App.css';  
+// import HeroSection from './components/HeroSection';  
+import GlassNavbar from './components/Navbar'; 
 
 const App = () => {
   return (
     <div>
-      Hello!
-      <HeroSection />
+      <GlassNavbar />  
+      {/* <HeroSection /> */}
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
